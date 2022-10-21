@@ -1,39 +1,6 @@
 <p align="center">
-  <a href="https://github.com/riimuru/gogoanime">
-    <img src="images/image1.png" alt="Logo" width="85" height="85">
-  </a>
 
   <h3 align="center">GogoAnime API</h3>
-
-  <p align="center">
-    <samp>A free anime streaming restful API serving anime from <a href="https://www1.gogoanime.cm/">Gogoanime</a></samp>
-    <br />
-    <a href="#routes"><strong>Explore the api »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/riimuru/gogoanime/issues/new?assignees=riimuru&labels=bug&template=bug-report.yml">Bug report</a>
-    ·
-    <a href="https://github.com/riimuru/gogoanime/issues/new?assignees=riimuru&labels=enhancement&template=feature-request.md">Feature request</a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/riimuru/gogoanime/actions/workflows/docker-build.yml">
-      <img src="https://github.com/riimuru/gogoanime/actions/workflows/docker-build.yml/badge.svg" alt="stars">
-    </a>
-     <a href="https://github.com/riimuru/gogoanime/actions/workflows/codeql-analysis.yml">
-      <img src="https://github.com/riimuru/gogoanime/actions/workflows/codeql-analysis.yml/badge.svg" alt="stars">
-    </a>
-    <a href="https://github.com/riimuru/gogoanime">
-      <img src="https://img.shields.io/github/stars/riimuru/gogoanime" alt="stars">
-    </a>
-    <a href="https://discord.gg/qTPfvMxzNH">
-      <img src="https://img.shields.io/discord/987492554486452315?color=7289da&label=discord&logo=discord&logoColor=7289da" alt="Discord">
-    </a>
-        <a href="https://github.com/consumet/extensions/blob/master/LICENSE">
-      <img src="https://img.shields.io/github/license/consumet/extensions" alt="GitHub">
-    </a>
-  </p>
-</p>
-
 > ### Note:
 > You might experience some delays or issues using [my hosted api on heroku](https://gogoanime.herokuapp.com/), so feel free to host it on your own site.
 
